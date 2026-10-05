@@ -11,7 +11,7 @@ I work across **product design** (CAD, FEA, design for manufacturing), **automat
 
 | # | Project | What it shows | Tools |
 |---|---------|---------------|-------|
-| 01 | [EV high-current connector (50 V / 100 A)](01-ev-high-current-connector/) | Casing and latch design, FEA to USCAR-2, tolerance analysis, supplier sourcing | SolidWorks, Gmsh, CalculiX, Python |
+| 01 | [EV connector casing design](01-ev-connector-design/) | Casing and latch design, FEA to USCAR-2, tolerance analysis, supplier sourcing | SolidWorks, FEA, Python |
 | 02 | [Digital twin of a laser-engraving assembly cell](02-digital-twin-assembly-cell/) | Operating sequence, field measurement, model calibration against PLC data | MATLAB, Simulink, Stateflow, Python, Siemens NX MCD |
 | 03 | [Power bank assembly line simulation](03-power-bank-assembly-line-simulation/) | Discrete-event model of a 9-supplier, 8-station assembly line | JaamSim |
 | 04 | [Bolt sorting machine](04-bolt-sorting-machine/) | Vibratory sorter: CAD, force and motor sizing, spring design | SolidWorks |

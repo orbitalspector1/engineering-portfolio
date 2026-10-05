@@ -1,7 +1,7 @@
 # Experience
 
 ## Product Design Intern — Narsipur Group (BITS Pilani Practice School)
-Jul 2026 – present · See [01-ev-high-current-connector](01-ev-high-current-connector/)
+Jul 2026 – present · See [EV connector casing design](01-ev-connector-design/)
 
 ## Business Development Intern — Vindhyavashani Services, Thane
 Nov 2025 – Jun 2026
