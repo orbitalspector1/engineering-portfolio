@@ -3,7 +3,7 @@
 Mechanical engineering student at **BITS Pilani, K.K. Birla Goa Campus** (B.E. Hons., 2022–2026).
 I work across **product design** (CAD, FEA, design for manufacturing), **automation and simulation**, and **data-driven analysis**.
 
-**Contact:** f20220715@goa.bits-pilani.ac.in · [LinkedIn](https://www.linkedin.com/in/shashank-prasad-563955254/)
+**Contact:** shashank1application@gmail.com · [LinkedIn](https://www.linkedin.com/in/shashank-prasad-563955254/)
 
 ---
 
