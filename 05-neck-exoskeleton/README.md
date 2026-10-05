@@ -1,6 +1,6 @@
 # Neck Exoskeleton — Product Design
 
-**Design project, BITS Pilani** · Jan – May 2025
+**Research project, BITS Pilani** · Solo, under a research associate · Jan – May 2025
 
 A wearable neck exoskeleton that gives ergonomic support to the head and neck.
 
@@ -17,7 +17,7 @@ A wearable neck exoskeleton that gives ergonomic support to the head and neck.
 `calculations/spring-and-clutch-calculations.xlsx` sweeps extension-spring wire diameter (1.55–3.3 mm) and computes, for each:
 mean coil diameter, spring index, active coils, ultimate and shear strength (music wire, A = 2211 MPa·mm^m, m = 0.145), Bergsträsser factor, spring rate and maximum deflection at head angles of 0°, 15°, 30°, 45° and 60°.
 
-I also worked out pulley and clutch loads, and recorded user feedback in trials to check fit and comfort.
+The spring loads come from neck loads of 53–267 N across 0–60° of head flexion; 2.3 mm music wire was selected for the initial prototype. My main task was the worm-gear clutch that engages and releases the elastic support. I also ran user trials, assessed by doctors, and collected the subject data.
 
 ## Files
 
