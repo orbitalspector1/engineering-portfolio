@@ -2,7 +2,7 @@
 
 **Lab Oriented Project, BITS Pilani** · Supervisor: Prof. Varinder Singh · Team of 3 · Aug – Dec 2024
 
-Hands-on teaching models and puzzles that make geometry, physics and mechanisms easier to understand, made with laser cutting and 3D printing.
+4–5 hands-on teaching models and puzzles, now kept at the BITS Goa Innovation Lab, that make geometry, physics and mechanisms easier to understand, made with laser cutting and 3D printing.
 
 ![Kit collage](images/collage.jpg)
 
