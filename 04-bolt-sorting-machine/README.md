@@ -1,6 +1,6 @@
 # Bolt Sorting Machine (Vibration Mechanism)
 
-**Design of Machine Elements course project, BITS Pilani** · Team of 8 · My role: **CAD model and design** · Aug – Nov 2024
+**Design of Machine Elements course project, BITS Pilani** · Team of 8 · My role: **built the complete CAD assembly and simulated its operation** · Aug – Nov 2024
 
 ![Isometric view](images/isometric.png)
 
