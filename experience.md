@@ -8,17 +8,19 @@ Nov 2025 – Jun 2026
 - Built Python time-series forecasting models and interactive dashboards to support supply chain decisions.
 - Contacted prospective companies and secured marketing partnerships.
 
-## Mechanical Design Intern — Stingray Robotix
+## Mechanical Design Intern — Stingray Robotix (remote, part-time)
 Aug 2024 – Nov 2024
-- Designed magnetic track components for a remotely operated vehicle (ROV) for underwater hull work.
-- Specified magnets and structural materials for corrosion resistance, durability and weight distribution.
+- Designed magnetic crawler tracks for an underwater hull-cleaning ROV in SolidWorks, backed by magnetic holding-force calculations.
+- Developed and compared magnetic and non-magnetic chain concepts on grip, corrosion resistance and weight.
+- Handed the final design and calculations to the founders, who carried them into further development.
 - Design files belong to the company and are not shared.
 
-## Practice School I — DEMECH (Deccan Mechanical and Chemical Industries), Pune
+## Practice School I (remote) — Deccan Mechanical and Chemical Industries (DEMECH), Pune
 May 2024 – Jul 2024
-- Studied the mechanics, components and design of screw and drag-chain conveyors for bulk material handling, as part of a 9-student team report.
+- Calculated screw conveyor capacity and power for bulk material handling in a 9-member team, and presented the findings to company engineers.
 
 ## Core Member, then Coordinator — SAE BITS Goa
 Sep 2023 – May 2025
-- Led and mentored a team of 15 through design, development and participation in BAJA SAE.
-- Hands-on work on ATV transmission, suspension, steering, braking and chassis, including cutting, grinding and welding.
+- Coordinated the club's 15-member ATV division through design, build and an ATV competition, clearing the first two qualifying rounds.
+- Worked on the braking subsystem, fabricating parts by welding, grinding and milling.
+- Kept the build to a minimal budget by reusing parts from earlier vehicles.

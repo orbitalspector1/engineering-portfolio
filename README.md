@@ -1,7 +1,7 @@
 # Shashank Prasad — Engineering Portfolio
 
-Mechanical engineering student at **BITS Pilani, K.K. Birla Goa Campus** (B.E. Hons., 2022–2027).
-I work across **product design** (CAD, FEA, design for manufacturing), **automation and simulation**, and **data-driven supply chain analysis**.
+Mechanical engineering student at **BITS Pilani, K.K. Birla Goa Campus** (B.E. Hons., 2022–2026).
+I work across **product design** (CAD, FEA, design for manufacturing), **automation and simulation**, and **data-driven analysis**.
 
 **Contact:** f20220715@goa.bits-pilani.ac.in · [LinkedIn](https://www.linkedin.com/in/shashank-prasad-563955254/)
 
@@ -30,18 +30,18 @@ Projects 01 and 02 are current work under IP restrictions, so those folders hold
 | Product Design Intern (BITS Pilani Practice School) | Narsipur Group | Jul 2026 – present |
 | Business Development Intern | Vindhyavashani Services | Nov 2025 – Jun 2026 |
 | Mechanical Design Intern | Stingray Robotix | Aug 2024 – Nov 2024 |
-| Practice School I (Design Intern) | Deccan Mechanical and Chemical Industries (DEMECH), Pune | May 2024 – Jul 2024 |
-| Core Member, then Coordinator | SAE BITS Goa (BAJA SAE) | Sep 2023 – May 2025 |
+| Practice School I Intern (remote) | Deccan Mechanical and Chemical Industries (DEMECH), Pune | May 2024 – Jul 2024 |
+| Core Member, then Coordinator | SAE BITS Goa (ATV division) | Sep 2023 – May 2025 |
 
 More detail: [experience.md](experience.md)
 
 ## Skills
 
 - **CAD:** SolidWorks (parts, assemblies, drawings, motion studies), Fusion 360, AutoCAD, Siemens NX MCD (learning)
-- **Analysis:** FEA (Gmsh, CalculiX), hand calculations, tolerance stack-up, Monte Carlo, spring and gear design
-- **Simulation and automation:** MATLAB, Simulink, Stateflow, JaamSim, pneumatics, Siemens S7 PLC (reading logic)
-- **Manufacturing:** design for injection moulding, 3D printing, CNC laser cutting, welding
-- **Data:** Python, SQL, Excel, Power BI, SAP
+- **Analysis:** Ansys Workbench, COMSOL Multiphysics, FEA (CalculiX), hand calculations, tolerance stack-up, spring and gear design
+- **Simulation and automation:** MATLAB/Simulink (basic), JaamSim, pneumatics, Siemens S7 PLC (reading logic)
+- **Manufacturing:** design for injection moulding, 3D printing, CNC laser cutting, welding, milling
+- **Tools:** MS Excel, Python (basic), Git/GitHub
 
 ## Viewing the files
 
